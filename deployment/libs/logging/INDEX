@@ -1,0 +1,10 @@
+addHandler              add a handler to or remove one from a logger
+basicConfig             bootstrapping the logging package
+getHandler              retrieves a handler from a logger.
+getLogger               set defaults and get the named logger
+handler-actions         predefined handler actions
+logging-internal        undocumented internal functions and variables
+logging-package         a tentative logging package
+loginfo                 entry points for logging actions
+loglevels               the logging levels, names and values
+setLevel                set logging.level for the object

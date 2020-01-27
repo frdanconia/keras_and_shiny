@@ -1,0 +1,11 @@
+Package: DataPreparation
+Version: 0.1
+Imports: logging
+MD5sum: c50d9b87195b8ca0579d61f4016b221a
+File: DataPreparation_0.1.tgz
+
+Package: Modeling
+Version: 0.1
+Imports: logging
+MD5sum: 9ebfd9bb23a13be83a869c6f10bd0f8a
+File: Modeling_0.1.tgz

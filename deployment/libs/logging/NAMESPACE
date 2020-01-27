@@ -1,0 +1,22 @@
+# $Id: NAMESPACE 86 2011-08-03 13:16:48Z mariotomo $
+export(loglevels,
+       logfinest,
+       logfiner,
+       logfine,
+       logdebug,
+       loginfo,
+       logwarn,
+       logerror,
+       levellog,
+       basicConfig,
+       getLogger,
+       removeHandler,
+       addHandler,
+       getHandler,
+       setLevel,
+       writeToFile,
+       writeToConsole,
+       updateOptions.environment,
+       updateOptions,
+       logReset
+       )

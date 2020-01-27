@@ -1,0 +1,6 @@
+DataPreparation_getLogger
+                        Retrieves DataPreparation logger.
+assert                  The same as stopifnot but with message.
+dt_validate             Performes validation of data.table passed
+dt_validate_and_groom   Performes validation and grooming of data.table
+                        passed

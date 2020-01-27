@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537278676428.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3886612428",
+    "id" : "7EA51AF1",
+    "lastKnownWriteTime" : 1537047010,
+    "last_content_update" : 1537047010,
+    "path" : "~/Downloads/Skrypty-3/pkg_DataPreparation/api_DataPreparation.R",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
